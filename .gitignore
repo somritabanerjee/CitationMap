@@ -1,10 +1,10 @@
 .vscode
 data
 **/__pycache__
+.DS_Store
 
 # Models
 **/*.pt
-**/*.pkl
 **/*.pth
 **/*.pth.tar
 
