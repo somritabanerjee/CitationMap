@@ -1,0 +1,12 @@
+Affiliation,Author,Citing Paper,Your Paper (Cited)
+"Caltech, NASA Jet Propulsion Laboratory",Thomas Touma,Ai space cortex: An experimental system for future era space exploration,Adapting a foundation model for space-based tasks
+"Chief Roboticist, Intelligent Robotics Group, NASA Ames Research Center",Terry (Terrence) Fong,The POLAR Traverse dataset: A dataset of stereo camera images simulating traverses across lunar polar terrain under extreme lighting conditions,VIPER Traverse Planning
+"Chief Roboticist, Intelligent Robotics Group, NASA Ames Research Center",Terry (Terrence) Fong,Analyzing the effectiveness of neural radiance fields for geometric modeling of lunar terrain,VIPER Traverse Planning
+"Intelligent Robotics Group, NASA Ames",Brian Coltin,Deformable Cargo Transport in Microgravity with Astrobee,Learning-based warm-starting for fast sequential convex programming and trajectory optimization
+NASA Ames Research Center,Caleb Ashmore Adams,Analyzing the effectiveness of neural radiance fields for geometric modeling of lunar terrain,VIPER Traverse Planning
+NASA's Jet Propulsion Laboratory,Jean-Pierre de la Croix,CRESCENT: Collision-Free Highly-Constrained Trajectory Optimization for Driving on the Moon,Contingency Planning Using Bi-level Markov Decision Processes for Space Missions
+Openmind Research Institute | NASA-JPL | Caltech,Elena Sorina Lupu,MAGICVFM-Meta-Learning Adaptation for Ground Interaction Control With Visual Foundation Models,Adaptive meta-learning for identification of rover-terrain dynamics
+"Robotics Technologist, NASA Jet Propulsion Lab",Abhishek Cauligi,[BOOK][B] Data-Driven Approaches for Mixed Integer Convex Programming in Robot Control,Learning-based warm-starting for fast sequential convex programming and trajectory optimization
+"Robotics Technologist, NASA Jet Propulsion Lab",Abhishek Cauligi,CRESCENT: Collision-Free Highly-Constrained Trajectory Optimization for Driving on the Moon,Contingency Planning Using Bi-level Markov Decision Processes for Space Missions
+"Robotics Technologist, NASA Jet Propulsion Lab",Erica Tevere,Ai space cortex: An experimental system for future era space exploration,Adapting a foundation model for space-based tasks
+"Robotics Technologist, NASA Jet Propulsion Lab",Erica Tevere,Meta-learning online dynamics model adaptation in off-road autonomous driving,Adaptive meta-learning for identification of rover-terrain dynamics

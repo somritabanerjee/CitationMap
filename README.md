@@ -2,6 +2,36 @@
 &#127759; <code>CitationMap</code>: Google Scholar Citation World Map
 </h1>
 
+---
+
+## Quick Start (Custom Scripts)
+
+This repository includes enhanced scripts for scraping and analyzing citation data:
+
+### Main Scripts
+
+1. **`incremental_scrape.py`** - Enhanced scraping with automatic retry
+   - Saves progress after every author (survives Google Scholar blocks)
+   - Automatically retries failed authors up to 3 times
+   - Run: `python incremental_scrape.py`
+
+2. **`map_generate.py`** - Generate the interactive world map
+   - First run geocodes all affiliations (~15-30 min)
+   - Set `parse_csv=True` for instant subsequent runs
+   - Outputs: `results/citation_map.html` and `results/citation_info.csv`
+   - Run: `python map_generate.py`
+
+3. **`analyze_affiliations.py`** - Analyze affiliation statistics
+   - Creates `results/affiliation_summary.csv` (all affiliations ranked by author count)
+   - Creates `results/nasa_affiliations.csv` (detailed NASA citations)
+   - Run: `python analyze_affiliations.py`
+
+### Utility Scripts
+
+Diagnostic and troubleshooting scripts are in the `utils/` folder. See [utils/README.md](utils/README.md) for details.
+
+---
+
 <p align="center">
 <strong>CitationMap: A Python Tool to Identify and Visualize Your Google Scholar Citations Around the World</strong> [<a href="https://openreview.net/pdf?id=BqJgCgl1IA">PDF</a>]
 </p>
